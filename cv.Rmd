@@ -1,3 +1,27 @@
 ---
 title: "Resume"
+icon: fa-file-pdf-o
 ---
+
+<html>
+  
+<body>
+  
+    <p>Click the button to open CV</p>
+  
+    <button onclick="Open()">PDF</button>
+  
+    <script>
+        function Open() {
+            window.open("Narjes_Mathlouthi_resume.pdf", "_blank");
+        }
+    </script>
+    
+  
+</body>
+  
+</html>
+
+
+
+

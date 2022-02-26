@@ -1,3 +1,20 @@
 ---
 title: "About"
 ---
+<html>
+  
+<body>
+
+
+<div class="card">
+<img src="narjes.jpg" alt="Narjes" style="width:50%">
+<div class="container">
+<h2>Narjes Mathlouthi</h2>
+<p class="title">Master's student in Environmental Science & Management</p>
+<p>Interested in water resource management and climate change mitigation and adaptation efforts in developing countries.</p>
+</div>
+</div>
+
+</body>
+  
+</html>

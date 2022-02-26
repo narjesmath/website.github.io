@@ -4,8 +4,22 @@ output_dir: "docs"
 theme: "theme.css"
 navbar:
   right:
+    - text: "Contact me"
+      icon: fa-envelope-o
+      href: mailto:narjes.mathlouthi@gmail.com
+    - text: "GitHub"
+      icon: fa-github
+      href: https://github.com/narjesmath
+    - text: "LinkedIn"
+      icon: fa-linkedin
+      href: https://www.linkedin.com/in/narjes-m/
+    - text: Twitter
+      icon: fa-twitter
+      href: https://twitter.com/NarjesMathlout1
+  left:
     - text: "Home"
       href: index.html
+      icon: fa-home
     - text: "About"
       href: about.html
     - text: "Projects"

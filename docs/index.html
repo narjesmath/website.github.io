@@ -106,7 +106,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","image","links"]}},"value":[{"type":"character","attributes":{},"value":["Home"]},{"type":"character","attributes":{},"value":["narjes.jpg"]},{"type":"list","attributes":{},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["LinkedIn"]},{"type":"character","attributes":{},"value":["https://linkedin.com/narjes-m/"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["Twitter"]},{"type":"character","attributes":{},"value":["https://twitter.com/NarjesMathlout1"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url"]}},"value":[{"type":"character","attributes":{},"value":["GitHub"]},{"type":"character","attributes":{},"value":["https://github.com/narjesmath"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["label","url","output"]}},"value":[{"type":"character","attributes":{},"value":["Email"]},{"type":"character","attributes":{},"value":["mailto:narjes.mathlouthi@gmail.com"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["postcards:"]}},"value":[{"type":"character","attributes":{},"value":["onofre"]}]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","output"]}},"value":[{"type":"character","attributes":{},"value":["Home"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["html_document"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["toc"]}},"value":[{"type":"logical","attributes":{},"value":[true]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2156,7 +2156,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   /*-- ARTICLE TABLE OF CONTENTS --*/
   .d-contents {
-    --heading-size:    18px;
+    --heading-size:    16px;
     --contents-size:   13px;
   }
 
@@ -2405,12 +2405,26 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
 <a href="index.html" class="title">Narjes Mathlouthi</a>
-</div>
-<div class="nav-right">
-<a href="index.html">Home</a>
+<a href="index.html" aria-label="Home">
+<i class="fa fa-home" aria-hidden="true"></i>
+</a>
 <a href="about.html">About</a>
 <a href="projects.html">Projects</a>
 <a href="cv.html">Resume</a>
+</div>
+<div class="nav-right">
+<a href="mailto:narjes.mathlouthi@gmail.com" aria-label="Contact me">
+<i class="fa fa-envelope-o" aria-hidden="true"></i>
+</a>
+<a href="https://github.com/narjesmath" aria-label="GitHub">
+<i class="fa fa-github" aria-hidden="true"></i>
+</a>
+<a href="https://www.linkedin.com/in/narjes-m/" aria-label="LinkedIn">
+<i class="fa fa-linkedin" aria-hidden="true"></i>
+</a>
+<a href="https://twitter.com/NarjesMathlout1" aria-label="Twitter">
+<i class="fa fa-twitter" aria-hidden="true"></i>
+</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2428,6 +2442,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
 <div class="d-article">
+<p>Welcome to my website</p>
 <div class="sourceCode" id="cb1"><pre
 class="sourceCode r distill-force-highlighting-css"><code class="sourceCode r"></code></pre></div>
 <!--radix_placeholder_article_footer-->

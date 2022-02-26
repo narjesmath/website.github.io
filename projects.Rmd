@@ -1,3 +1,29 @@
 ---
 title: "Projects"
 ---
+
+<html>
+  
+<body>
+<section class="projects" id="projects">
+<h2 class="projects-title">Some of my Recent Projects</h2>
+<div class="projects-container">
+<div class="project-container project-card">
+<img
+src="download.png" style="width:50%" loading="lazy"
+class="project-pic"/>
+<h3 class="project-title">Juvenile Snowhare Count </h3>
+
+
+<p class="project-details">
+Juvenile snowshoe hares counts and sizes: exploratory report
+</p>
+<a  target="_blank" href="narjes_mathlouthi_snowshoe_report copy.html">Check it Out</a>
+</div>
+
+
+</div>
+</section>
+</html>
+  
+</body>
