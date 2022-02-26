@@ -1,0 +1,15 @@
+name: "Narjes Mathlouthi"
+title: "Narjes Mathlouthi"
+output_dir: "docs"
+theme: "theme.css"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Resume"
+      href: cv.html
+output: distill::distill_article
