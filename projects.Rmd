@@ -7,20 +7,60 @@ title: "Projects"
 <body>
 <section class="projects" id="projects">
 <h2 class="projects-title">Some of my Recent Projects</h2>
+
 <div class="projects-container">
 <div class="project-container project-card">
+<p class="project-details">
+<h3 class="project-title">California Oil Spill (2008) report </h3>
+<img
+src="caoilspill.png" style="width:50%" loading="lazy"
+class="project-pic"/>
+<br>
+<a  target="_blank" href="ca_oil_spill_2008.html">Here</a>
+</br>
+</p>
+</div>
+</div>
+<div class="projects-container">
+<div class="project-container project-card">
+<p class="project-details">
+<h3 class="project-title"> Sentiment Analysis </h3>
+<img
+src="word.png" style="width:50%" loading="lazy"
+class="project-pic"/>
+<br>
+<a  target="_blank" href="sentiment_analysis.html">Here</a>
+</br>
+</p>
+</div>
+</div>
+
+<div class="projects-container">
+<div class="project-container project-card">
+<p class="project-details">
+<h3 class="project-title">Willamette Falls Fish Passage report</h3>
+<img
+src="map.png" style="width:50%" loading="lazy"
+class="project-pic"/>
+<br>
+<a  target="_blank" href="fish_passage.html">Here</a>
+</br>
+</p>
+</div>
+
+<div class="projects-container">
+<div class="project-container project-card">
+<p class="project-details">
+<h3 class="project-title">Juvenile Snowhare Count </h3>
 <img
 src="download.png" style="width:50%" loading="lazy"
 class="project-pic"/>
-<h3 class="project-title">Juvenile Snowhare Count </h3>
-
-
-<p class="project-details">
-Juvenile snowshoe hares counts and sizes: exploratory report
+<br>
+<a  target="_blank" href="narjes_mathlouthi_snowshoe_report copy.html">Here</a>
+</br>
 </p>
-<a  target="_blank" href="narjes_mathlouthi_snowshoe_report copy.html">Check it Out</a>
 </div>
-
+</div>
 
 </div>
 </section>
