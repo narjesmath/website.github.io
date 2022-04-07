@@ -13,7 +13,7 @@ icon: fa-file-pdf-o
   
     <script>
         function Open() {
-            window.open("Narjes_Mathlouthi_resume.pdf", "_blank");
+            window.open("Mathlouthi_Narjes_Resume.pdf", "_blank");
         }
     </script>
     

@@ -7,12 +7,5 @@ output:
 
 Welcome to my website!
 
-```{r echo=FALSE, warning=FALSE, , message=FALSE, out.height="100%", out.width="100%"}
-library(rstudioapi)
-# install.packages("rstudioapi")
-library(ggmap)
-# register_google(key = "AIzaSyAwS2n4OJxtKUX3EDYBb22QdoO7wqe37-k")
-ggmap(get_googlemap(center = c(lon = 10.09, lat = 36.49), zoom =7, maptype = "terrain", color = "color"),extent = "device") 
 
-```
 

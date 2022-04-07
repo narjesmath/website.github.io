@@ -10,19 +10,18 @@ title: "About"
 <img src="narjes.jpg" alt="Narjes" style="width:50%">
 <div class="container">
 <h2>Narjes Mathlouthi</h2>
-<p class="title">Master's student in Environmental Science & Management</p>
+<p class="title">Master's student in Environmental Science & Management (MESM)</p>
 
 ```{r echo=FALSE, warning=FALSE, , message=FALSE, out.height="100%", out.width="100%"}
-library(rstudioapi)
-# install.packages("rstudioapi")
-library(ggmap)
-
-ggmap(get_googlemap(center = c(lon = 10.09, lat = 36.49), zoom =7, maptype = "terrain", color = "color"),extent = "device") 
+# library(rstudioapi)
+# # install.packages("rstudioapi")
+# library(ggmap)
+# 
+# ggmap(get_googlemap(center = c(lon = 10.09, lat = 36.49), zoom =7, maptype = "terrain", color = "color"),extent = "device") 
 
 ```
 
-<p class="title">I'm originally from Tunisia in North Africa.</p>
-<p>I'm interested in water resource management and climate change mitigation and adaptation efforts in developing countries.I hope to help find solutions to problems of food security & water scarcity in Africa with an emphasis on the MENA region.</p>
+<p>My name is Narjes and I'm originally from Tunisia in North Africa. I'm a first year MESM student at the BREN school of Environmental Science & Management and I'm interested in water and coastal marine resource management and conservation. With a passion for problem solving and data analysis, I wish to investigate climate change mitigation and adaptation efforts in developing countries. My hope is to help identify management solutions to climate change issues especially with regard to food security, sustainability of marine ecosystems and water scarcity.</p>
 </div>
 </div>
 
