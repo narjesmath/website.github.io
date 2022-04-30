@@ -1,27 +1,60 @@
 ---
 title: "Resume"
 icon: fa-file-pdf-o
+editor_options: 
+  markdown: 
+    wrap: 72
 ---
 
 <html>
-  
+
 <body>
-  
-    <p>Click the button to open CV</p>
-  
-    <button onclick="Open()">PDF</button>
-  
-    <script>
+
+<button onclick="Open()">CV</button>
+
+```{=html}
+<script>
         function Open() {
             window.open("Mathlouthi_Narjes_Resume.pdf", "_blank");
         }
     </script>
-    
-  
+```
+
+<br>
+
+<h3> EDUCATION </h3>
+
+</br>
+**Master of Environmental Science and Management**, 3.84 GPA (Expected
+June 2023)
+
+**Coastal Marine Resources Management & Energy and Climate Specializations
+Bren School of Environmental Science & Management -- University of
+California, Santa Barbara (UCSB)**
+<u>Employment</u>: Teaching Assistant -- Department of Economics
+(10/21--Present)
+<u>Master's Group Project</u>: Data Manager, Assessing sustainability pathways
+for Fiji Albacore Tuna for 
+UN Food and Agriculture Organization, Fijian
+Govt., 
+Client: Conservation Int'l (4/22--Present)
+
+**Bachelor of Science in Environmental Economics & Policy**, 3.8 GPA
+(December 2016)
+**University of California Berkeley (UC Berkeley), Berkeley, CA**
+Leadership/Involvement: Berkeley Environmental Economics & Policy (BEEP)
+Group
+
+<h4>MASTER'S DATA ANALYSIS, MODELING, & STATISTICS COURSEWORK & PROJECTS</h4>
+
+**SQL Database Creation \| Management of Scientific Data Course**:
+Creating a SQL database to manage scientific data for use in my masters'
+group project (3/22--Present)
+
+**Machine Learning \| Probability Statistics -- Machine Learning
+Course**: Using Global Fishing Watch AIS training data to detect fishing
+events along Fiji coastline and high seas. May 2022 (3/22--Present)
+
 </body>
-  
+
 </html>
-
-
-
-
