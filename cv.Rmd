@@ -53,7 +53,7 @@ MASTER'S DATA ANALYSIS, MODELING, & STATISTICS COURSEWORK & PROJECTS
 group project (3/22--Present)</small><br>
 **Machine Learning \| Probability Statistics -- Machine Learning
 Course**:<small> Using Global Fishing Watch AIS training data to detect fishing
-events along Fiji coastline and high seas. May 2022 (3/22--Present)</small> <br>
+events along Fiji coastline and high seas. (3/22--Present)</small> <br>
 <b>Shiny App in R | Advanced Data Analysis Course </b>: <small>Developed an interactive Shiny App using R to highlight household energy use vs. health effects from cooking activities (1/22–3/22)</small></ul>
 
 <div class="func">
