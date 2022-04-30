@@ -59,28 +59,25 @@ events along Fiji coastline and high seas. (3/22--Present)</small> <br>
 <div class="func">
 <div class="work">
 <h3><i class="fa fa-briefcase"></i>Experience</h3>
-<ul>
-
-<b>Marketing Analyst – Women4Good </b>,<small>San Francisco, CA (6/21–8/21)</small>
-<small><li>Increased IGNITE National’s Instagram growth from 2.5% daily engagement to 5% via A/B testing</li>
-<li>Conducted a historical analysis of IGNITE’s Instagram account using python</li></small><br>
-<b>Data Defender – Museum of African Diaspora (MoAD)</b>,<small> San Francisco, CA (7/20–6/21) </small>
+<b>Marketing Analyst – Women4Good </b>,<small>San Francisco, CA (6/21–8/21)</small><ul>
+<small><li>Increased IGNITE National’s Instagram growth from 2.5% daily engagement to 5% via A/B testing</li></small>
+<small><li>Conducted a historical analysis of IGNITE’s Instagram account using python</li></small></ul>
+<b>Data Defender – Museum of African Diaspora (MoAD)</b>,<small> San Francisco, CA (7/20–6/21) </small><ul>
 <small><li>Maintained museum database;by ensuring accurate data entry of membership details</li></small>
-<small><li>Protected donor and user information; collected and designed surveys to reach out to inactive users</li></small><br>
+<small><li>Protected donor and user information; collected and designed surveys to reach out to inactive users</li></small></ul>
 <b>Grants Officer | Grants Coordinator – Global Fund for Women</b>,<small>San Francisco, CA (8/18–11/20 | 11/20–5/21)</small><br><ul>
 <b>Grants Officer</b><small> (11/20–5/21)</small>
-<small><li>Oversaw 350+ grants pre- and post-award; managed cross-thematic international portfolios totaling over $5 Million dollars</li>
-<li>Developed best practices for data procurement, management, processing, handling, and safeguarding</li>
-<li>Improved and implemented tools, reports, and procedures to optimize grantmaking planning processes</li>
-<li>Oversaw contracts and payment processing and assured contract and grant compliance</li>
-</small>
+<small><li>Oversaw 350+ grants pre- and post-award; managed cross-thematic international portfolios totaling over $5 Million dollars</li></small>
+<small><li>Developed best practices for data procurement, management, processing, handling, and safeguarding</li></small>
+<small><li>Improved and implemented tools, reports, and procedures to optimize grantmaking planning processes</li></small>
+<small><li>Oversaw contracts and payment processing and assured contract and grant compliance</li></small>
 <b>Grants Coordinator</b><small> (8/18–11/20)</small>
 <small><li>Developed, launched, and managed grantmaking Salesforce dashboards and reports for all team functions
-on both management and individual levels to provide insights on funding and guide proposal</li>
-<li>Maintained data quality by identifying and deleting duplicate records, and updating inaccurate data</li>
-<li>Communicated with donors, program, and fundraising teams to achieve grantmaking strategies</li>
-<li>Supervised and trained 4 outside consultants, monitored project administration, invoices, reporting</li></small></ul>
-</ul>
+on both management and individual levels to provide insights on funding and guide proposal</li></small>
+<small><li>Maintained data quality by identifying and deleting duplicate records, and updating inaccurate data</li></small>
+<small><li>Communicated with donors, program, and fundraising teams to achieve grantmaking strategies</li></small>
+<small><li>Supervised and trained 4 outside consultants, monitored project administration, invoices, reporting</li></small></ul>
+
 
 <div class="skills-prog">
 <h3><i class="fas fa-code"></i>Programming Skills</h3>
