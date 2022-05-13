@@ -34,8 +34,8 @@ University of California, Santa Barbara (UCSB)</b><br>
 <u><small>Employment</u>:
 Teaching Assistant -- Department of Economics (10/21--Present)</small><br>
 <u><small>Master's Group Project</u>: Data Manager, Assessing sustainability
-pathways for Fiji Albacore Tuna for UN Food and Agriculture
-Organization, Fijian Govt., Client: Conservation Int'l (4/22--Present)</small></ul>
+pathways for Fiji Albacore Tuna, 
+Client: Conservation Int'l (4/22--Present)</small></ul>
 <div class="func">
 <div class="work">
 <b>Bachelor of Science in Environmental Economics & Policy</b>,<small> 3.8 GPA (December 2016)</small><br>
@@ -59,10 +59,10 @@ events along Fiji coastline and high seas. (3/22--Present)</small> <br>
 <div class="func">
 <div class="work">
 <h3><i class="fa fa-briefcase"></i>Experience</h3>
-<b>Marketing Analyst – Women4Good</b>,<small> San Francisco, CA (6/21–8/21)</small><ul>
+<b>Marketing Analyst Volunteer – Women4Good</b>,<small> San Francisco, CA (6/21–8/21)</small><ul>
 <small><li>Increased IGNITE National’s Instagram growth from 2.5% daily engagement to 5% via A/B testing</li></small>
 <small><li>Conducted a historical analysis of IGNITE’s Instagram account using python</li></small></ul>
-<b>Data Defender – Museum of African Diaspora (MoAD)</b>,<small> San Francisco, CA (7/20–6/21) </small><ul>
+<b>Data Defender Volunteer – Museum of African Diaspora (MoAD)</b>,<small> San Francisco, CA (7/20–6/21) </small><ul>
 <small><li>Maintained museum database;by ensuring accurate data entry of membership details</li></small>
 <small><li>Protected donor and user information; collected and designed surveys to reach out to inactive users</li></small></ul>
 <b>Grants Officer | Grants Coordinator – Global Fund for Women</b>,<small> San Francisco, CA (8/18–11/20 | 11/20–5/21)</small><br><ul>
