@@ -1,0 +1,107 @@
+---
+title: "Resume"
+icon: fa-file-pdf-o
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+<html>
+
+<body>
+<div class="resume">
+
+<button onclick="Open()">CV</button>
+
+```{=html}
+<script>
+        function Open() {
+            window.open("Mathlouthi_Narjes_Resume.pdf", "_blank");
+        }
+    </script>
+```
+
+
+<div class="edu">
+<h3><i class="fa fa-graduation-cap">EDUCATION</i></h3>
+
+<br> **Master of Environmental Science and Management**,<small> 3.84 GPA (Expected June 2023)</small><br>
+<small><em><b>Coastal Marine Resources Management & Energy and Climate
+Specializations</b></small></em></ul><br>
+<b>Bren School of Environmental Science & Management --
+University of California, Santa Barbara (UCSB)</b><br>
+<ul>
+<u><small>Employment</u>:
+Teaching Assistant -- Department of Economics (10/21--Present)</small><br>
+<u><small>Master's Group Project</u>: Data Manager, Assessing sustainability
+pathways for Fiji Albacore Tuna, 
+Client: Conservation Int'l (4/22--Present)</small></ul>
+<div class="func">
+<div class="work">
+<b>Bachelor of Science in Environmental Economics & Policy</b>,<small> 3.8 GPA (December 2016)</small><br>
+**University of California Berkeley (UC Berkeley),
+Berkeley, CA**<br></small> 
+<ul>
+<u><small>Leadership/Involvement</u>: Berkeley Environmental Economics
+& Policy (BEEP) Group </small></ul>
+<h4>
+MASTER'S DATA ANALYSIS, MODELING, & STATISTICS COURSEWORK & PROJECTS
+</h4>
+<ul>
+**SQL Database Creation \| Management of Scientific Data Course**:
+<small>Creating a SQL database to manage scientific data for use in my masters'
+group project (3/22--Present)</small><br>
+**Machine Learning \| Probability Statistics -- Machine Learning
+Course**:<small> Using Global Fishing Watch AIS training data to detect fishing
+events along Fiji coastline and high seas. (3/22--Present)</small> <br>
+<b>Shiny App in R | Advanced Data Analysis Course </b>: <small>Developed an interactive Shiny App and a custom CSS using R (1/22–3/22)</small></ul>
+
+<div class="func">
+<div class="work">
+<h3><i class="fa fa-briefcase"></i>Experience</h3>
+<b>Marketing Analyst Volunteer – Women4Good</b>,<small> San Francisco, CA (6/21–8/21)</small><ul>
+<small><li>Increased IGNITE National’s Instagram growth from 2.5% daily engagement to 5% via A/B testing</li></small>
+<small><li>Conducted a historical analysis of IGNITE’s Instagram account using python</li></small></ul>
+<b>Data Defender Volunteer – Museum of African Diaspora (MoAD)</b>,<small> San Francisco, CA (7/20–6/21) </small><ul>
+<small><li>Maintained museum database;by ensuring accurate data entry of membership details</li></small>
+<small><li>Protected donor and user information; collected and designed surveys to reach out to inactive users</li></small></ul>
+<b>Grants Officer | Grants Coordinator – Global Fund for Women</b>,<small> San Francisco, CA (8/18–11/20 | 11/20–5/21)</small><br><ul>
+<b>Grants Officer</b><small> (11/20–5/21)</small>
+<small><li>Oversaw 350+ grants pre- and post-award; managed cross-thematic international portfolios totaling over $5 Million dollars</li></small>
+<small><li>Developed best practices for data procurement, management, processing, handling, and safeguarding</li></small>
+<small><li>Improved and implemented tools, reports, and procedures to optimize grantmaking planning processes</li></small>
+<small><li>Oversaw contracts and payment processing and assured contract and grant compliance</li></small>
+<b>Grants Coordinator</b><small> (8/18–11/20)</small>
+<small><li>Developed, launched, and managed grantmaking Salesforce dashboards and reports for all team functions
+on both management and individual levels to provide insights on funding and guide proposal</li></small>
+<small><li>Maintained data quality by identifying and deleting duplicate records, and updating inaccurate data</li></small>
+<small><li>Communicated with donors, program, and fundraising teams to achieve grantmaking strategies</li></small>
+<small><li>Supervised and trained 4 outside consultants, monitored project administration, invoices, reporting</li></small></ul>
+
+
+<div class="skills-prog">
+<h3><i class="fas fa-code"></i>Programming Skills</h3>
+<ul>
+<small>
+<li>
+Python,
+R,
+SQL,
+GIS,
+JavaScript,
+bash,
+C,
+HTML,
+CSS,
+Salesforce CRM</li></small></ul>
+<div class="interests">
+<h3><i class="fas fa-star"></i>Interests</h3>
+<div class="interests-items">
+<div class="art"><i class="fas fa-palette"></i><span>Art</span></div>
+<div class="art"><i class="fas fa-book"></i><span>Books</span></div>
+<div class="movies"><i class="fas fa-film"></i><span>Movies</span></div>
+<div class="music"><i class="fas fa-headphones"></i><span>Music</span></div> <br>
+
+</body>
+
+</html>
